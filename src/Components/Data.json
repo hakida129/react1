@@ -1,0 +1,40 @@
+[
+
+    {
+        "id" : 1,
+        "name" : "IronMan",
+        "tel" : "098987876",
+        "Permission" : 1
+    },
+    {
+        "id" : 2,
+        "name" : "BatMan",
+        "tel" : "342347876",
+        "Permission" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "Naruto",
+        "tel" : "093453476",
+        "Permission" : 3
+    },
+    {
+        "id" : 4,
+        "name" : "Luffy",
+        "tel" : "098987345",
+        "Permission" : 1
+    },
+    {
+        "id" : 5,
+        "name" : "Boa Hancock",
+        "tel" : "4234987876",
+        "Permission" : 2
+    },
+    {
+        "id" : 6,
+        "name" : "Hakida",
+        "tel" : "0984987876",
+        "Permission" : 1
+    }
+
+]
